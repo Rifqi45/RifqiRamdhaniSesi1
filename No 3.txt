@@ -1,0 +1,6 @@
+- API Java tambahan untuk mendukung pengembangan, debugging, dan pemantauan aplikasi Java.
+- Blok Teks pasti membuat kode lebih mudah dibaca.
+- Beralih Ekspresi akan memungkinkan Anda untuk mengembalikan nilai dari sakelar 
+  dan menggunakan nilai pengembalian ini dalam tugas,
+- Kelas Tertutup akan memberi Anda lebih banyak kontrol tentang kelas mana yang dapat 
+  memperluas kelas.
